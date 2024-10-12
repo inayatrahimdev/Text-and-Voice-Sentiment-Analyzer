@@ -1,4 +1,4 @@
-# 🎤 **Sentiment Analyzer**: Where Words Meet Emotion! 💬🧠
+# 🎤 **Sentiment Analyzer**: Where Words Meet Emotion! 
 
 Welcome to the **Sentiment Analyzer** project⚡! 🌟 This cutting-edge application leverages text analysis and speech recognition to help you understand the emotions behind words. Whether you're analyzing text or transcribing speech, this tool is your go-to for sentiment analysis!
 
