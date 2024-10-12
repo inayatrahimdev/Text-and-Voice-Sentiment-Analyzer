@@ -25,8 +25,8 @@ Welcome to the **Sentiment Analyzer** project⚡! 🌟 This cutting-edge applica
 ## 📜 **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🤝 **Contributing**
+## 🤗 **Contributing**
 We welcome contributions! Feel free to open issues or submit pull requests. Let's make this project even better together!
 
-## 🌟 **Connect with Us**
+## 🌍 **Connect with Us**
 Follow me on [GitHub](https://github.com/inayatrahimdev) for updates and new projects!
